@@ -48,7 +48,7 @@ pip install pyperclip
 
 1. Download or clone this repository:
 ```bash
-git clone https://github.com/your-username/password-generator-gui.git
+git clone https://github.com/mostafabaghi/password-generator-gui.git
 cd password-generator-gui
 ```
 
